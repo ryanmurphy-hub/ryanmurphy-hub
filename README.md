@@ -22,10 +22,9 @@
 
 ---
 
-### 📂 Featured Projects  
-🔹 [**API Crash Course**](#) – Practice scripts for Python & REST APIs  
-🔹 [**Job Search with SerpApi**](#) – Filtered job search automation using SerpApi  
-🔹 [**Networking Demos**](#) – Example configs, notes, and lab work  
+### 📂 Featured Projects
+- [**SerpApi Job Finder CLI**](https://github.com/ryanmurphy-hub/serpapi-job-finder-cli) – Command-line tool for searching Google Jobs via SerpApi  
+- [**SerpApi API Crash Course**](https://github.com/ryanmurphy-hub/serpapi-api-crash-course) – Practice scripts for Python & REST APIs  
 
 ---
 
