@@ -37,7 +37,7 @@
 ---
 
 ### 📫 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/ryan-murphy-87b4072b7/)  
+- [LinkedIn](https://www.linkedin.com/in/ryan-murphy-83450b376/)  
 - GitHub: You’re already here 🙂  
 
 ---
