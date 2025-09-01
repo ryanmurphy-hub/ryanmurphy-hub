@@ -24,7 +24,7 @@
 
 ### 📂 Featured Projects
 - [**SerpApi Job Finder CLI**](https://github.com/ryanmurphy-hub/serpapi-job-finder-cli) – Command-line tool for searching Google Jobs via SerpApi  
-- [**SerpApi API Crash Course**](https://github.com/ryanmurphy-hub/serpapi-api-crash-course) – Practice scripts for Python & REST APIs  
+- [**SerpApi Starter Python**](https://github.com/ryanmurphy-hub/serpapi-starter-python) – Minimal Python starter with CI, tests, and examples   
 
 ---
 
